@@ -1,0 +1,116 @@
+html, body {
+    margin: 0;
+}
+
+header{
+    background-color:rgb(155, 9, 9) ;
+    color: white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    
+}
+
+#logo{
+    width: 70px;
+}
+
+#imagem_fundo {
+    background: url("fundo.jpg");
+    height: 100%;
+    text-align: center;
+}
+
+#titulo {
+    color: rgb(155, 9, 9);
+    padding-top: 30%;
+    font-size: 60px;
+}
+
+#subtitulo{
+    color: rgb(155, 9, 9);
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#acao {
+    color: rgb(155, 9, 9) ;
+    border: 1px rgb(155, 9, 9) solid ;
+    padding: 10px 20px 10px 20px;
+}
+
+.equilibrio {
+    width: 600px;
+   
+}
+
+
+#importancia{
+    background: rgb(221, 214, 214);
+    padding: 20px;
+    color:rgb(155, 9, 9) ;
+    
+}
+
+#paragrafo {
+    padding: 20px;
+    color:rgb(155, 9, 9) ;
+   
+}
+
+#potencias {
+    background-color: rgb(221, 214, 214);
+    padding: 20px;
+    color:rgb(155, 9, 9) ;
+}
+
+section{
+    padding: 20px;
+    float: left;
+}
+
+.destaque{
+    padding: 20px;
+    color:rgb(155, 9, 9) ;
+}
+
+.imgpot {
+    width: 90%;
+    
+}
+
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+}
+
+.dois{
+    width: 40%;
+   
+}
+
+.quatro{
+   width: 40%;
+   padding: 20%;
+}
+
+.justificado{
+    text-align: justify;
+
+}
+
+.centralizado{
+    text-align: center;
+}
+
+#sobre{
+    width: 100%;
+}
+
+
+
+
+
+
+
